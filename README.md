@@ -1,4 +1,4 @@
-# ApplicationIcons
+# Application Icons
 Here are some 16x16 icons I regularly use in my applications
 
 http://www.iconarchive.com/show/silk-icons-by-famfamfam.html
